@@ -3,8 +3,8 @@
 Welcome to my Power BI Dashboards Repository! This repository contains a collection of Power BI projects, each with their own set of reports, visualizations, and data sources. These dashboards can be used for a variety of purposes, including business intelligence analysis, data exploration, and performance monitoring.
 
 ## Table of Contents
-- [Getting Started](##Getting_Started)
-- [Dashboard_Projects](##Dashboard_Projects)
+- [Getting Started](#Getting_Started)
+- [Dashboard_Projects](#Dashboard_Projects)
 
 ## Getting_Started
 To use the Power BI dashboards in this repository, you'll need to have Power BI Desktop installed on your computer. You can download Power BI Desktop for free from the [Microsoft website](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
