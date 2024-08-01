@@ -1,25 +1,20 @@
 
-# Global-Terrorism-Analysis
+# Power BI Dashboards Repository
+Welcome to my Power BI Dashboards Repository! This repository contains a collection of Power BI projects, each with their own set of reports, visualizations, and data sources. These dashboards can be used for a variety of purposes, including business intelligence analysis, data exploration, and performance monitoring.
 
-###### It is highly recommended that the pbix file be downloaded for clearer details.
+## Table of Contents
+- [Getting Started](##Getting_Started)
+- [Dashboard_Projects](##Dashboard_Projects)
 
-## Analysis Purpose
-This project's main aim is to raise awareness on the state of multiple unrests and rebels occuring from 1970 to 2017 (due to limitations from the data source). Moreover, the noteworthy higher frequency of terrorism attacks happening and the occurrence of extremists, such as the Houthis and the Hamas also contribute to the project's main purpose.
+## Getting_Started
+To use the Power BI dashboards in this repository, you'll need to have Power BI Desktop installed on your computer. You can download Power BI Desktop for free from the [Microsoft website](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
 
-## Analysis Findings
-In the following project, I seek for global hotspots with the global map visualized. Additionally, I also want to determines whether the media accurately address the most dangerous extremist groups as well as find out the most destructive weapons used. 
+Once you have Power BI Desktop installed, you can download a dashboard project from this repository by clicking on the project folder and downloading the .pbix file. Then, open the .pbix file in Power BI Desktop and start exploring the dashboard!
 
-These aforementioned findings would be used for fortification of national defense and making sure UNICEF army be sent to hotspots to prevent war and social unrest as well as the most affected nations could receive help and aids. Lastly, research on most destructive weapons could be used against themselves, as when statistics are available, people can understand more on the underlying damage of them and manufacturers, nations and etc. could limit their use and production.
+## Dashboard_Projects
+This repository contains the following dashboard project:
 
-## Technologies
-Project is created with:
-* MS Excel 2016:
-* MS PowerBI 
+- Project 1 - [Global Terrorism Analysis](https://github.com/hinmfm/global-terrorism-analysis/tree/main/PROJECT%201%3A%20GLOBAL%20TERRORISM%20ANALYSIS): A dashboard that displays the state of global terrorism situation as well as the weapon-using frequency for most common weapons in mutinies.
+- Project 2 - [HR Analytics Report](): A dashboard that displays HR data for a company.
 
-## Analysis Results
-
-1. Global hotspots: South Asia; Middle East & North Africa
-2. Deadliest terrorist groups & most destructive weapons: ISIL/Taliban & Explosives (respectively)
-3. Solutions: sending troops to extreme regions for army fortification, supporting countries most affected by terrorism, and limiting the act of selling weapons to arm extremists.
-
-
+Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
