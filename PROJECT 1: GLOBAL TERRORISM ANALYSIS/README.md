@@ -3,6 +3,13 @@
 
 ###### It is highly recommended that the pbix file be downloaded for clearer details.
 
+## Table of Contents
+- [Analysis Purpose](#Analysis-Purpose)
+- [Analysis Findings](#Analysis-Findings)
+- [Technologies](#Technologies)
+- [Analysis Results](#Analysis-Results)
+- [Contents](#Contents)
+
 ## Analysis Purpose
 This project's main aim is to raise awareness on the state of multiple unrests and rebels occuring from 1970 to 2017 (due to limitations from the data source). Moreover, the noteworthy higher frequency of terrorism attacks happening and the occurrence of extremists, such as the Houthis and the Hamas also contribute to the project's main purpose.
 
