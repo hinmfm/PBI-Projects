@@ -3,7 +3,7 @@
 Welcome to my collection of Power BI dashboards! This repository includes a range of Power BI projects, each with unique reports, visualizations, and data sources. These dashboards are suitable for different applications, including business analysis, data investigation, and performance evaluation.
 
 ## Table of Contents
-- [Getting Started](#Getting-Started)
+- [How to Interact with my Dashboards](#How-to-Interact-with-my-Dashboards)
 - [Dashboard Projects](#Dashboard-Projects)
 
 ## How to Interact with my Dashboards
