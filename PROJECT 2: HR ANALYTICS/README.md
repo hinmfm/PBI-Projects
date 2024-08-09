@@ -66,10 +66,10 @@ I would deliver answers to aforementioned questions:
 ## Contents
 
 ### The first page is a navigation pane.
-![image](https://github.com/user-attachments/assets/eb42e837-c7a6-4186-8ddd-75e428719764)
+![image](https://github.com/user-attachments/assets/26ffca20-80fe-43e0-97ac-7ab2c35b5ba9)
 
 ### The second page is an overview of the data analyzed.
-![image](https://github.com/user-attachments/assets/6b6821f8-af41-47bc-b9d4-b887ff2d644e)
+![image](https://github.com/user-attachments/assets/32a69881-0703-417f-9598-dfbd2778f536)
 
 Overall, the company has 207 employees, mostly recruited from 'Indeed' and have an average salary of 70.69K as well as an average age of 45.77. The median range of the former range from 65.9K to 93.09K, with the minimum being 63.35K and the maximum being 250K. 
 
@@ -80,16 +80,20 @@ The range of age at the company varies from 33 to 74 years old, with most people
 Most people, which is 177 out of 204 people, working at the company comes from MA, which is the abbreviation for Massachusetts. The majority of the workforce also come from the East side of the United States.
 
 ### The third page is a summarized evaluation of the workforce.
-![image](https://github.com/user-attachments/assets/fe218b53-176a-4cd8-8065-f6fa8212064b)
+![image](https://github.com/user-attachments/assets/ceba7d6a-9a8a-4a23-a63e-1a4fcbc9705a)
+
+The company witnesses an average new employee growth of 31.09% and a turnover rate of 22.29% (the turnover rate is calculated by dividing the number of employees who left by the average number of employees, then multiplying by 100). The peak number of employees hired and terminated along with the year they happened are 66 - 2014 and 23 - 2015 respectively. 
+
+Out of 311 employees who is hired, 104 have terminated their contracts. The department
 
 ### The fourth page visualized the overall diversity profile of the company.
-![image](https://github.com/user-attachments/assets/a0b9804a-e1b8-44e1-ab44-1ad262f6ba10)
+![image](https://github.com/user-attachments/assets/79548f7b-c86d-49e9-aecb-6833303fcb06)
 
 ### The fifth page is my analysis of the firm's departments.
-![image](https://github.com/user-attachments/assets/98b9d9ff-fb54-47e3-97d1-fcb59687e825)
+![image](https://github.com/user-attachments/assets/09a1a054-73e9-4eb8-a328-700134b7aaeb)
 
 ### The sixth page is my development of HR Metrics.
-![image](https://github.com/user-attachments/assets/124af804-6916-4241-9dcb-93706ac2e275)
+![image](https://github.com/user-attachments/assets/a986441a-8b22-446e-a931-f4e3438a5e3c)
 
 ### The seventh page is my prediction for the workforce and termination assumption.
-![image](https://github.com/user-attachments/assets/9db4cb7e-76d0-4b2a-bba3-d6cc654aa99e)
+![image](https://github.com/user-attachments/assets/6b5e84d0-5e64-4a35-ae4f-56c97136bda4)
