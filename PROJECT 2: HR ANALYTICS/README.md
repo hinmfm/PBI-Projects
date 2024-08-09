@@ -1,6 +1,7 @@
 # HR ANALYTICS
 
-###### It is highly recommended that the pbix file be downloaded for clearer details. Due to file types being .csv, many files are disorganized when uploaded, i'm sorry for this.
+###### It is highly recommended that the pbix file be downloaded for clearer details. 
+###### Due to file types being .csv, many files are disorganized when uploaded, i'm sorry for this.
 
 ## Table of Contents
 * [Acknowledgement](#Acknowledgement)
