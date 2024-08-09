@@ -70,6 +70,7 @@ I would deliver answers to aforementioned questions:
 
 ### The second page is an overview of the data analyzed.
 ![image](https://github.com/user-attachments/assets/6b6821f8-af41-47bc-b9d4-b887ff2d644e)
+
 Overall, the company has 207 employees, mostly recruited from 'Indeed' and have an average salary of 70.69K as well as an average age of 45.77. The median range of the former range from 65.9K to 93.09K, with the minimum being 63.35K and the maximum being 250K. 
 
 'Production' department have the highest number of employees, wwith 126 staffs working in this department, followed by IT/IS, Sales, Admin Offices and Software Engineering, with 40, 26, 7 and 7 employees respectively.
