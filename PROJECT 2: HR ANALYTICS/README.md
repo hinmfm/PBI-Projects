@@ -93,7 +93,7 @@ There are multiple termination reasons, with the most common being having been o
 ### The fourth page visualized the overall diversity profile of the company.
 ![image](https://github.com/user-attachments/assets/79548f7b-c86d-49e9-aecb-6833303fcb06)
 
-Most employees are White, coming off second being Black or African American, following by Asian, consisting of 61.08%, 25.12% and 9.85% respectively. The remaining proportion belongs to ones having two or more races and ones who are American Indian or Alaska Native.
+Most employees are White, coming off second being Black or African American, followed by Asian, consisting of 61.08%, 25.12% and 9.85% respectively. The remaining proportion belongs to ones having two or more races and ones who are American Indian or Alaska Native.
 
 Most people at the company are US citizens, making up 96.14% while ones who are considered eligible citizens to work, yet are not US, make up only 3.38%. There is only 1 working staff who is a non-citizen. Most employees are also not Hispanic or Latino with 188 out of 207 employees meeting this condition. The majority of the workforce are also female, comprising a proportion of 56.04%.
 
