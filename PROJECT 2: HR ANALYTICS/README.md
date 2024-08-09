@@ -17,7 +17,7 @@ Dr. Carla Patalano and Dr. Rich Huebner at New England College of Business are t
 
 This is also a synthetic dataset.
 
-LICENSE: CC-BY-NC-ND
+[The link to the dataset is given here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 ## Analysis Objectives
 Due to my great interest in HR, i decided to carry out this project in order to further my understanding and gain in-depth knowledge about this field.
