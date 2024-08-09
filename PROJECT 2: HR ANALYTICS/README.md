@@ -66,7 +66,7 @@ I would deliver answers to aforementioned questions:
 ## Contents
 
 ### The first page is a navigation pane.
-![image](https://github.com/user-attachments/assets/3168624e-2056-4fda-8b3c-28255eae947f)
+![image](https://github.com/user-attachments/assets/eb42e837-c7a6-4186-8ddd-75e428719764)
 
 ### The second page is an overview of the data analyzed.
 ![image](https://github.com/user-attachments/assets/6b6821f8-af41-47bc-b9d4-b887ff2d644e)
@@ -85,10 +85,10 @@ Most people, which is 177 out of 204 people, working at the company comes from M
 ![image](https://github.com/user-attachments/assets/a0b9804a-e1b8-44e1-ab44-1ad262f6ba10)
 
 ### The fifth page is my analysis of the firm's departments.
-![image](https://github.com/user-attachments/assets/a20f6bb7-2f77-4d2c-a3c9-ccd9dac42dc2)
+![image](https://github.com/user-attachments/assets/98b9d9ff-fb54-47e3-97d1-fcb59687e825)
 
 ### The sixth page is my development of HR Metrics.
 ![image](https://github.com/user-attachments/assets/124af804-6916-4241-9dcb-93706ac2e275)
 
 ### The seventh page is my prediction for the workforce and termination assumption.
-![image](https://github.com/user-attachments/assets/169e5a8d-5504-4826-997d-fb6c89268f0b)
+![image](https://github.com/user-attachments/assets/9db4cb7e-76d0-4b2a-bba3-d6cc654aa99e)
