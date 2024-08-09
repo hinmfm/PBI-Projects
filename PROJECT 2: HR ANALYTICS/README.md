@@ -51,7 +51,7 @@ I would deliver answers to aforementioned questions:
 - The data answering this question are visualized in page 4/7 in my visualization.
 
 3. What are our best recruiting sources if we want to ensure a diverse organization?
-- 'Indeed' has provided the company with all-of-races staffs employed during their history so far. Therefore, Indeed could be deemed the most diversified recruiting sources. 'LinkedIn, despite its great diversity, does not comprise any staff who is Hispanic. The same thing also occurs to 'Employee Referral' and 'Google Search' method of hiring, with the additional lack of American Indian or Alaska Native, tw0-or-more-races employees in the former, and Black and African American employees in the latter.
+- 'Indeed' has provided the company with all-of-races staffs employed during their history so far. Therefore, Indeed could be deemed the most diversified recruiting sources. 'LinkedIn, despite its great diversity, does not comprise any staff who is Hispanic. The same thing also occurs to 'Employee Referral' and 'Google Search' method of hiring, with the additional lack of American Indian or Alaska Native, two-or-more-races employees in the former, and Black and African American employees in the latter.
 - Most employees hired from 'Indeed' are also US citizens, and this also occurs in other sources of recruitment as well.
 - The data answering this question are visualized in page 4/7 in my visualization.
 
@@ -82,18 +82,35 @@ Most people, which is 177 out of 204 people, working at the company comes from M
 ### The third page is a summarized evaluation of the workforce.
 ![image](https://github.com/user-attachments/assets/ceba7d6a-9a8a-4a23-a63e-1a4fcbc9705a)
 
-The company witnesses an average new employee growth of 31.09% and a turnover rate of 22.29% (the turnover rate is calculated by dividing the number of employees who left by the average number of employees, then multiplying by 100). The peak number of employees hired and terminated along with the year they happened are 66 - 2014 and 23 - 2015 respectively. 
+The company witnesses an average new employee growth of 31.09% and a turnover rate of 22.29% (the turnover rate is calculated by dividing the number of employees who left by the average number of employees, then multiplying by 100). The peak number of employees hired and terminated along with the year they happened are 83 - 2011 and 23 - 2015 respectively. 
 
-Out of 311 employees who is hired, 104 have terminated their contracts. The department
+Out of 311 employees who is hired, 104 have terminated their contracts. The department who hires the most and also witnesses most termination is Production, and the least counterpart of its being Admin Offices. Executive, due to having too few employed, is not included in the analysis.
+
+Most employees are employed as Production Technician I and II. The majority of the workforce are also recruited from Indeed, followed by LinkedIn and Google Search, making up the top 3 most popular recruitment source of the company.
+
+There are multiple termination reasons, with the most common being having been offered another position.
 
 ### The fourth page visualized the overall diversity profile of the company.
 ![image](https://github.com/user-attachments/assets/79548f7b-c86d-49e9-aecb-6833303fcb06)
 
+Most employees are White, coming off second being Black or African American, following by Asian, consisting of 61.08%, 25.12% and 9.85% respectively. The remaining proportion belongs to ones having two or more races and ones who are American Indian or Alaska Native.
+
+Most people at the company are US citizens, making up 96.14% while ones who are considered eligible citizens to work, yet are not US, make up only 3.38%. There is only 1 working staff who is a non-citizen. Most employees are also not Hispanic or Latino with 188 out of 207 employees meeting this condition. The majority of the workforce are also female, comprising a proportion of 56.04%.
+
+'Indeed' has provided the company with all-of-races staffs employed during their history so far. Therefore, Indeed could be deemed the most diversified recruiting sources. 'LinkedIn, despite its great diversity, does not comprise any staff who is Hispanic. The same thing also occurs to 'Employee Referral' and 'Google Search' method of hiring, with the additional lack of American Indian or Alaska Native, two-or-more-races employees in the former, and Black and African American employees in the latter.
+
+Most employees hired from 'Indeed' are also US citizens, and this also occurs in other sources of recruitment as well.
+
 ### The fifth page is my analysis of the firm's departments.
 ![image](https://github.com/user-attachments/assets/09a1a054-73e9-4eb8-a328-700134b7aaeb)
+
 
 ### The sixth page is my development of HR Metrics.
 ![image](https://github.com/user-attachments/assets/a986441a-8b22-446e-a931-f4e3438a5e3c)
 
+
+
 ### The seventh page is my prediction for the workforce and termination assumption.
 ![image](https://github.com/user-attachments/assets/6b5e84d0-5e64-4a35-ae4f-56c97136bda4)
+
+
