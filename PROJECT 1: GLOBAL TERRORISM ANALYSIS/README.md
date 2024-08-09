@@ -29,7 +29,7 @@ Project is created with:
 3. Solutions: sending troops to extreme regions for army fortification, supporting countries most affected by terrorism, and limiting the act of selling weapons to arm extremists.
 
 ## Contents
-### The first page acting as a navigation pane.
+### The first page acting as a navigation pane
 ![image](https://github.com/user-attachments/assets/85a7f985-d667-4775-bfeb-3f5a44e3c658)
 ### The second page being the Overview
 ![image](https://github.com/user-attachments/assets/5e653bab-d3c9-4962-9857-79ceb501271b)
