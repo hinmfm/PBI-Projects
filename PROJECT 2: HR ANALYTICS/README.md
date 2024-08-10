@@ -105,13 +105,26 @@ Most employees hired from 'Indeed' are also US citizens, and this also occurs in
 ### The fifth page is my analysis of the firm's departments.
 ![image](https://github.com/user-attachments/assets/09a1a054-73e9-4eb8-a328-700134b7aaeb)
 
+The salary range at the company is 205K, with the lowest being 45K, the highest is 250K. The range is notably significant in several departments, they are Production, IT/IS and Sales, with their range respectively being 125K, 170K and 124K. 
+
+Overall, the average satisfaction score of the company's staffs is 3.89. The department boasting highest average satisfaction score is IT/IS at 4.05, and the lowest is Admin Offices at 3.57. There are only 7 employees who have a satisfaction score below 3, yet a huge proportion of staffs at the firm are rather not satisfied, as reflected in 75 out of 204 only have a satisfaction score of 3. Despite this, people who have a greater satisfaction score, which is 4 and 5, is relatively high in size when compared to others, with 56 and 69 respectively.
+
+(it is recommended that the slider be used due to great range and executive office be removed from the comparison due to too few employees)
+
+In terms of Salary, the department with highest average salary is IT/IS with an average of 94512.08 and not much far behind is Software Engineering department, at 93262.57. The second lowest paid department is Admin Offices, with an average salary of 69088.85, yet this is of no comparison to the least paid, which is Production, as employees are only paid an average of 60419.26. The majority of people at the company also have the salary range below 80000, with 165 staffs and the second most-had range of salary is 80000 to 120000, with just 33 staffs, approximately one-fifth that of the former. The highest paid employees are Janet King, Jennifer Zamora and Debra Houlihan with their salary and department respectively are 250000 - executive office, 220450 - IT/IS and 180000 - Sales.
+
+Production is the oldest department within the firm, having an average age of 46.19, followed by Sales, IT/IS, Software Engineering and Admin Offices. If executive office is mentioned, despite having only one executive, Janet King, the executive, is also among the oldest employees at 71 years old. The longest serving employees is Jack Torrence, who has stayed with the company since 2006 for a remarkable length of 13 years, given the final year in the dataset being 2018. 
+
+Production is also the department with most employees, with 126 staffs, about 3-fold that of IT/IS which is the department with the second highest number of people. Followed by IT/IS are Sales, Admin Offices and Software Engineering with 26, 7 and 7 staffs respectively.
 
 ### The sixth page is my development of HR Metrics.
 ![image](https://github.com/user-attachments/assets/a986441a-8b22-446e-a931-f4e3438a5e3c)
 
-
-
 ### The seventh page is my prediction for the workforce and termination assumption.
 ![image](https://github.com/user-attachments/assets/6b5e84d0-5e64-4a35-ae4f-56c97136bda4)
 
+The first visible visuals in this page is the visualization of employee growth and forecast. It is forecasted that growth would last peaked in 2021 at 230.64% before undergoing a downward trend which saw a reduction in staff size. The confidence interval here is put at 95% and seasonality, at 10 points, as it is predicted that workforce would fluctuate greatly based on real-time historic events, such as Covid.
 
+My assumptions based on the analysis of terminated employees. I found that most terminated staff have salary below average, or to be precise, 79 out of 104 employees. More than a half of terminated employees, which is 54, are paid lower than their department's average salary. A notable detail is that 96 out of 104 terminated employees have a below-average performance score, which is an approximation of 4 (4.02). More than half of the staffs who work for Amy Dunn, Webster Butler & Kissy Sullivan also terminated their contract, which is also noteworthy.
+
+Therefore, I combine conditions as aforementioned to find likely termination, assuming a probability of 70%, as there is little connection among these conditions. I would analyse better and clearer given a better dataset and criteria, such as performance score and employee satisfaction being decimal number or of 'float' type.
