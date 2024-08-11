@@ -117,7 +117,7 @@ Production is the oldest department within the firm, having an average age of 46
 Production is also the department with most employees, with 126 staffs, about 3-fold that of IT/IS which is the department with the second highest number of people. Followed by IT/IS are Sales, Admin Offices and Software Engineering with 26, 7 and 7 staffs respectively.
 
 ### The sixth page is my development of HR Metrics.
-![image](https://github.com/user-attachments/assets/a986441a-8b22-446e-a931-f4e3438a5e3c)
+![image](https://github.com/user-attachments/assets/e1547a86-76c4-49c6-8bd3-eeef0d1d6f7a)
 
 My developed HR Metrics only consisted of performance score, due to limitations of the original dataset. In this page, I analysed to find whether there is a correlation between salary and performance score, managers with most employees, average performance score of each department and top 5 of it among managers.
 
