@@ -10,13 +10,12 @@
 * [Technologies](#Technologies)
 * [Analysis Results](#Analysis-Results)
 * [Contents](#Contents)
+* [Ending](#Ending)
 
 ## Acknowledgement
-Obtaining HR data can be difficult, and HR professionals often find themselves less advanced in analytics and data visualization skills.
+Obtaining HR data can be difficult, and HR professionals often find themselves less advanced in analytics and data visualization skills. Therefore, Dr. Carla Patalano and Dr. Rich Huebner at New England College of Business, original authors, created their own HR-related dataset, which is used in one of our graduate MSHRM courses called HR Metrics and Analytics.
 
-Dr. Carla Patalano and Dr. Rich Huebner at New England College of Business are the original authors of this dataset.
-
-This is also a synthetic dataset.
+This is also a synthetic dataset. The CSV revolves around a fictitious company.
 
 [The link to the dataset is given here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
@@ -140,3 +139,15 @@ The first visible visuals in this page is the visualization of employee growth a
 My assumptions based on the analysis of terminated employees. I found that most terminated staff have salary below average, or to be precise, 79 out of 104 employees. More than a half of terminated employees, which is 54, are paid lower than their department's average salary. A notable detail is that 96 out of 104 terminated employees have a below-average performance score, which is an approximation of 4 (4.02). More than half of the staffs who work for Amy Dunn, Webster Butler & Kissy Sullivan also terminated their contract, which is also noteworthy.
 
 Therefore, I combine conditions as aforementioned to find likely termination, assuming a probability of 70%, as there is little connection among these conditions. I would analyse better and clearer given a better dataset and criteria, such as performance score and employee satisfaction being decimal number or of 'float' type.
+
+## Ending
+
+If you make it here, thank you very much. 
+Under 4 years is the amount of time have i been a senior student at National Economics University, with a passion in data analytics and visualization, and also in English. 
+
+Not gonna lie, I dream of nothing but to disseminate my knowledge to people and devote everything i could to the company i work for.
+Gonna assume that this project has a total working time of 22 hours, yet flaws can still be found. 
+And due to this, I am open to suggestions and advice.
+Nonetheless, i express my gratitude towards ones who made it here.
+
+Thank you very much.
