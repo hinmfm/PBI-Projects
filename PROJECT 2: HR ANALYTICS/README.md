@@ -43,7 +43,7 @@ Project is created with:
 I would deliver answers to aforementioned questions:
 1. Is there any relationship between who a person works for and their performance score?
 - Yes, there is. To answer this questions, i had used a treemap and a quadrant chart to analyse data. I conditioned that a manager should have at least 10 employees (approximation of 9.8 - company's average) working for him/her and their average performance score is at least 4 (approximation of 4.02 - company's average) in order to be shortlisted.
-- Managers who satisfied the conditions are: Ketsia Liebig (Production - 4.06 - 16 employees), Kelly Spirea (Production - 4.13 - 15 employees), Brandon Miller (Production - 4.43 - 14 employees), David Stanley (Production - 4.0 - 14 employees), Peter Monroe (IT-IS - 4.0 - 12 employees), Elijah Gray (Production - 4.14 - 14 employees), Lynn Daneault (Sales - 4.18 - 11 employees), Janet King (IT-IS/Production/Admin Offices/Sales - 4.33 - 12 employees).
+- Managers who satisfied the conditions are: Ketsia Liebig (Production - 4.06 - 16 employees), Kelly Spirea (Production - 4.06 - 15 employees), Brandon Miller (Production - 4.19 - 14 employees), Elijah Gray (Production - 4.14 - 14 employees), Lynn Daneault (Sales - 4.0 - 11 employees), Janet King (IT-IS/Production/Admin Offices/Sales - 4.23 - 12 employees), Kissy Sullivan (Production - 4.10 - 10 employees)
 - You can try it by filtering data in the treemap chart and looking up performance score in the bar charts of 'HR Metrics', page 6/7 in my visualization.
 
 2. What is the overall diversity profile of the organization?
@@ -119,6 +119,18 @@ Production is also the department with most employees, with 126 staffs, about 3-
 
 ### The sixth page is my development of HR Metrics.
 ![image](https://github.com/user-attachments/assets/a986441a-8b22-446e-a931-f4e3438a5e3c)
+
+My developed HR Metrics only consisted of performance score, due to limitations of the original dataset. In this page, I analysed to find whether there is a correlation between salary and performance score, managers with most employees, average performance score of each department and top 5 of it among managers.
+
+Overall, the company boasted an average performance score of 4.02, with the best manager being Eric Dougall, having his employees boast an average performance score of 4.25. Board of Directors are managers under whom employees are the paid the most. If BOD are excluded, Jennifer Zamora would replace, as employees working under her have an average salary of 133904.83.
+
+From the quadrant chart, it is visible that there are certain managers who would guarantee a higher performance score, they are ones who are on the higher end of the x-axis division line. It is recommended that the .pbix file be opened at this point for further information. Self-criteria can also be added with filters. 
+
+Brandon Miller, Kelly Spirea, Ketsia Liebig are managers with the most employees working under, all standing at 16. Followed by them are David Stanley and Elijah Gray with 15 and 14 staffs respectively. 
+
+In terms of departments' average performance score, Software Engineering are seen to be effective, with an average of 4.14, followed by IT/IS at 4.08. Production, despite having the largest number of staffs working in, still manages to score an average of 4.05, which i deem remarkable. There is only one department with average performance score being below 4, which is Sales, as they score a mediocre 3.81. Eric Dougall, having only 4 employees, yet manages his employees well, shown in the average performance score of 4.25. Janet King comes in second, only 0.02 percentage points behind, and Simon Roup comes in third, 0.01 percentage point behind Janet.  Alex Sweetheart and Jennifer Zamora, both have 6 employees and an average score of 4.17, taking the final spots of top 5 managers with highest staffs' average performance score.
+
+A scroller can also be found at the end of the page, showing the performance score of individual employee.
 
 ### The seventh page is my prediction for the workforce and termination assumption.
 ![image](https://github.com/user-attachments/assets/6b5e84d0-5e64-4a35-ae4f-56c97136bda4)
