@@ -14,7 +14,7 @@ After installing Power BI Desktop, you can download a dashboard project from thi
 ## Dashboard Projects
 This repository contains the following dashboard project:
 
-- Project 1 - [Global Terrorism Analysis](https://github.com/hinmfm/global-terrorism-analysis/tree/main/PROJECT%201%3A%20GLOBAL%20TERRORISM%20ANALYSIS): A dashboard that displays the state of global terrorism situation as well as the weapon-using frequency for most common weapons in mutinies.
+- Project 1 - [Global Terrorism Analysis](https://github.com/hinmfm/global-terrorism-analysis/tree/main/PROJECT%201%3A%20GLOBAL%20TERRORISM%20ANALYSIS): A dashboard that presents the global terrorism landscape and tracks weapon usage frequency in common mutinies.
 - Project 2 - [HR Analytics Report](https://github.com/hinmfm/PBI-Projects/tree/main/PROJECT%202%3A%20HR%20Analytics%20Reports): A dashboard that displays HR data for a company.
-
+- Project 3 - [Bike Share Machine Learnigng](https://github.com/hinmfm/PBI-Projects/tree/main/PROJECT%203:%20BIKE%20SHARE%20MACHINE%20LEARNING): A dashboard that analyzes business performance and offers recommendations for a bike share company.
 Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
